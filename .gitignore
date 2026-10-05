@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+vllm-env/
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Kaggle/runtime
+.kaggle/
+.ipynb_checkpoints/
+
+# Model/cache files
+.cache/
+huggingface/
+models/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
