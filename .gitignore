@@ -30,3 +30,6 @@ models/
 .DS_Store
 .vscode/
 .idea/
+
+# Cloudflare binary downloaded automatically by start_cloudflare.sh
+cloudflared
